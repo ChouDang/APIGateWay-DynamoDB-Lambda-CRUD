@@ -1,5 +1,5 @@
 {
-  "app": "npx ts-node --prefer-ts-exts bin/my-project.ts",
+  "app": "npx ts-node --prefer-ts-exts bin/APIGatewayDynamoDbLamdba.ts",
   "watch": {
     "include": [
       "**"
